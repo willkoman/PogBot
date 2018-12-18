@@ -1,0 +1,11 @@
+C:\Users\willk\source\repos\KelschBot\KelschBot\bin\Debug\netcoreapp2.1\KelschBot.deps.json
+C:\Users\willk\source\repos\KelschBot\KelschBot\bin\Debug\netcoreapp2.1\KelschBot.runtimeconfig.json
+C:\Users\willk\source\repos\KelschBot\KelschBot\bin\Debug\netcoreapp2.1\KelschBot.runtimeconfig.dev.json
+C:\Users\willk\source\repos\KelschBot\KelschBot\bin\Debug\netcoreapp2.1\KelschBot.dll
+C:\Users\willk\source\repos\KelschBot\KelschBot\obj\Debug\netcoreapp2.1\KelschBot.csprojAssemblyReference.cache
+C:\Users\willk\source\repos\KelschBot\KelschBot\obj\Debug\netcoreapp2.1\KelschBot.csproj.CoreCompileInputs.cache
+C:\Users\willk\source\repos\KelschBot\KelschBot\obj\Debug\netcoreapp2.1\KelschBot.AssemblyInfoInputs.cache
+C:\Users\willk\source\repos\KelschBot\KelschBot\obj\Debug\netcoreapp2.1\KelschBot.AssemblyInfo.cs
+C:\Users\willk\source\repos\KelschBot\KelschBot\bin\Debug\netcoreapp2.1\KelschBot.pdb
+C:\Users\willk\source\repos\KelschBot\KelschBot\obj\Debug\netcoreapp2.1\KelschBot.dll
+C:\Users\willk\source\repos\KelschBot\KelschBot\obj\Debug\netcoreapp2.1\KelschBot.pdb
