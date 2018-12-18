@@ -89,6 +89,10 @@ namespace KelschBot
             foreach (string d in shitlist)
             if (message.Author.Id.ToString() == d)
                 await message.Channel.SendMessageAsync(responses[new Random().Next(0,responses.Length)]);
+
+            if (message.Content == "!pog")
+                await message.Channel.SendFileAsync("C:\\Pictures\\something.png", "Caption goes here");
+
         }
             
 
