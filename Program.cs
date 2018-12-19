@@ -34,7 +34,7 @@ namespace KelschBot
             
             var client = new DiscordSocketClient();
             client.Log += Log;
-            string token = "NTI0Mzc3MzMwODU3MTQ4NDMy.DvoQRA.ab0kvOwbe9bJySbjF0FEjbL4D0U";
+            string token = "No Thanks Dad";
             await client.LoginAsync(TokenType.Bot, token);
             await client.StartAsync();
             await client.SetGameAsync("Just Shitting Around | !pog");
