@@ -154,11 +154,11 @@ namespace KelschBot
             FlashWindow(Process.GetCurrentProcess().MainWindowHandle);
             SocketGuild server = ((SocketGuildChannel)message.Channel).Guild;
             Console.WriteLine(message.Author+" said:");
-            Console.WriteLine(message.Content);
+            Console.WriteLine("> "+message.Content);
             using (System.IO.StreamWriter file = new System.IO.StreamWriter($"{server.Name} - Log.txt", true))
             {
                 await file.WriteLineAsync(System.DateTime.Now+" | "+ message.Channel +" | "+ message.Author + " said:");
-                await file.WriteLineAsync(message.Content);
+                await file.WriteLineAsync("> " + message.Content);
             } 
         
 
