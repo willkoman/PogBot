@@ -5,7 +5,7 @@ using System;
 using System.Threading.Tasks;
 using System.Linq;
 using System.Collections.Generic;
-
+using System.IO;
 namespace KelschBot
 {
     public class Program
@@ -117,6 +117,16 @@ namespace KelschBot
         }
         private async Task MessageReceived(SocketMessage message)
         {
+            SocketGuild server = ((SocketGuildChannel)message.Channel).Guild;
+            Console.WriteLine(message.Author+" said:");
+            Console.WriteLine(message.Content);
+            using (System.IO.StreamWriter file = new System.IO.StreamWriter($"{server.Name} - Log.txt", true))
+            {
+                await file.WriteLineAsync(System.DateTime.Now+" | "+ message.Channel +" | "+ message.Author + " said:");
+                await file.WriteLineAsync(message.Content);
+            } 
+        
+
             if (message.Content.ToLower() == "!pog")
             {//<:pog:524455455506956308> Willko Official
                 IEmote emote = Emote.Parse("<:Pog:478342281183756288>");
