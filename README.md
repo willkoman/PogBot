@@ -11,7 +11,9 @@ Pogbot comes equipped with several commands and actions
  - !fun will have the bot tell a fun fact
 ## Logging
 Now keeps track of all messages shared in the servers the bot is in. It neatly organizes them in this fashion
+
 > {Discord server name} - Log.txt
+ 
 > {Date and time} | {Channel} | {Member}
 
 > {message}
