@@ -19,3 +19,12 @@ C:\Users\willk\source\repos\PogBot\PogBot\obj\Debug\netcoreapp2.1\PogBot.Assembl
 C:\Users\willk\source\repos\PogBot\PogBot\obj\Debug\netcoreapp2.1\PogBot.AssemblyInfo.cs
 C:\Users\willk\source\repos\PogBot\PogBot\obj\Debug\netcoreapp2.1\PogBot.dll
 C:\Users\willk\source\repos\PogBot\PogBot\obj\Debug\netcoreapp2.1\PogBot.pdb
+C:\Users\willk\source\repos\PogBot\PogBot\obj\Debug\netcoreapp2.1\PogBot.csprojAssemblyReference.cache
+C:\Users\willk\source\repos\PogBot\PogBot\bin\Debug\netcoreapp2.1\hyde\hyde (1).jpg
+C:\Users\willk\source\repos\PogBot\PogBot\bin\Debug\netcoreapp2.1\hyde\hyde (2).jpg
+C:\Users\willk\source\repos\PogBot\PogBot\bin\Debug\netcoreapp2.1\hyde\hyde (3).jpg
+C:\Users\willk\source\repos\PogBot\PogBot\bin\Debug\netcoreapp2.1\hyde\hyde (4).jpg
+C:\Users\willk\source\repos\PogBot\PogBot\bin\Debug\netcoreapp2.1\hyde\hyde (5).jpg
+C:\Users\willk\source\repos\PogBot\PogBot\bin\Debug\netcoreapp2.1\hyde\hyde (6).jpg
+C:\Users\willk\source\repos\PogBot\PogBot\bin\Debug\netcoreapp2.1\hyde\hyde (7).jpg
+C:\Users\willk\source\repos\PogBot\PogBot\bin\Debug\netcoreapp2.1\hyde\hyde (8).jpg
