@@ -206,17 +206,12 @@ namespace KelschBot
 
 
             }
-            if (message.Content.ToLower().Contains("nigg") || message.Content.ToLower().Contains("n word") || message.Content.ToLower().Contains("n-word"))
-                if (message.Author.Id.ToString() != "524377330857148432")
-                {
-                    Console.WriteLine("RACISM DETECTED REEEEEEEE");
-                    await message.Channel.SendMessageAsync("***OH GOD MRS. OBAMA GET DOWN***");
-                }
+            
             // angelo
             foreach (string d in shitlist)
             if (message.Author.Id.ToString() == d)
                 await message.Channel.SendMessageAsync(responses[new Random().Next(0,responses.Length)]);
-
+            // Sam Hyde
             if (message.Content.ToLower() == "!hydeme")
             {
                 Console.WriteLine("Sending hydeman");
